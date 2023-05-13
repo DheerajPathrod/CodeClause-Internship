@@ -10,16 +10,16 @@ The site is live at [here]
 ## Units
 
 ### Length
-* Meter m
-* Kilo-Meter km
-* Centi-Meter cm
+* Meter (m)
+* Kilo-Meter (km)
+* Centi-Meter (cm)
 
 ### Area
-* Square Feet ft²
-* Square Inches in²
-* Square Meter m²
+* Square Feet (ft²)
+* Square Inches (in²)
+* Square Meter (m²)
 
 ### Temperature
-* Celsius °C
-* Fahrenheit °F
-* Kelvin K
+* Celsius (°C)
+* Fahrenheit (°F)
+* Kelvin (K)
