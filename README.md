@@ -25,7 +25,7 @@ The site is live at [here](https://github.com/DheerajPathrod/CodeClause-Internsh
 * Kelvin (K)
 
 
-## Task-2 
---> Portfolio-Website
+## Task-2 📋
+✔️ Portfolio-Website
 
 This is a Portfolio Website, which describes about me, about my interests, about my skill, contains my resume, my social media handles and my contact details.
