@@ -29,3 +29,16 @@ The site is live at [here](https://github.com/DheerajPathrod/CodeClause-Internsh
 ✔️ Portfolio-Website
 
 This is a Portfolio Website, which describes about me, about my interests, about my skill, contains my resume, my social media handles and my contact details.
+
+Features
+* Fully Responsive\
+* Easy to modify
+
+Sections
+
+✔️ Home
+✔️ About me
+✔️ Skills
+✔️ Interest
+✔️ Resume
+✔️ Contact
