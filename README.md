@@ -43,7 +43,7 @@ Sections
 ✔️ Resume
 ✔️ Contact
 
-Task-3 📋
+## Task-3 📋
 ✔️ Github-Explorer
 
 This website is build for searching any GitHub Profile by entering there username
